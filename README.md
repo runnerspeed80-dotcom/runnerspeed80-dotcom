@@ -21,11 +21,10 @@ I am an **Electronics and Communication Engineering (ECE)** student passionate a
 ## 💻 Tech Stack & Tools
 
 ### Languages & Frameworks
-![C](https://shields.io)
-![C++](https://shields.io)
+<img src="https://shields.io" alt="C" height="28"/> <img src="https://shields.io" alt="C++" height="28"/>
 
 ### Engineering Tools & Platforms
-![GitHub](https://shields.io)
+<img src="https://shields.io" alt="GitHub" height="28"/>
 
 ---
 
@@ -35,7 +34,7 @@ Here is my live coding progress, syncing automatically from my accounts:
 
 | LeetCode Progress | GitHub Activity |
 | --- | --- |
-| [![runnerspeed80-dotcom's LeetCode Stats](https://herokuapp.com)](https://leetcode.com) | [![runnerspeed80-dotcom's GitHub Stats](https://vercel.app)](https://github.com) |
+| <a href="https://leetcode.com"><img src="https://herokuapp.com" alt="LeetCode Stats" width="350"/></a> | <a href="https://github.com"><img src="https://vercel.app" alt="GitHub Stats" width="380"/></a> |
 
 *(Stats cache dynamically. If you just pushed code or solved a problem, give it a few minutes to refresh!)*
 
