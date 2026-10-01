@@ -1,6 +1,6 @@
 About Me
 
-> 👋 Hey! I'm an ECE engineering student at UVCE, currently exploring the world of programming and electronics.
+> 👋 Hey! I'm an ECE engineering student, currently exploring the world of programming and electronics.
 
 💻 I'm learning C programming and practicing problem-solving through LeetCode, with a focus on building strong fundamentals.
 
