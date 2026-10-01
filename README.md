@@ -1,4 +1,4 @@
-# 👋 Hello, I'm PokemonXD! ⚡
+# 👋 Hello, I'm runnerspeed80-dotcom! ⚡
 
 I am an **Electronics and Communication Engineering (ECE)** student passionate about bridging the gap between hardware and software. I love writing efficient code to control physical systems, building hobby electronics, and sharpening my problem-solving skills.
 
@@ -14,7 +14,7 @@ I am an **Electronics and Communication Engineering (ECE)** student passionate a
 ## 🚀 Featured Projects
 
 - [🏎️ RC Car Code](https://github.com) – Firmware and control logic for an Arduino/microcontroller-powered RC car.
-- [💡 Tinkercad Designs](https://tinkercad.com) – 3D models and simulated circuit designs for ECE and robotics projects.
+- [💡 Tinkercad Designs](https://github.com) – 3D models and simulated circuit designs for ECE and robotics projects.
 
 ---
 
@@ -31,12 +31,13 @@ I am an **Electronics and Communication Engineering (ECE)** student passionate a
 
 ## 📊 Live Scoreboard
 
-### LeetCode Progress
-Here is my live competitive programming progress, syncing automatically from my account:
+Here is my live coding progress, syncing automatically from my accounts:
 
-[![PokemonXD's LeetCode Stats](https://herokuapp.com)](https://leetcode.com)
+| LeetCode Progress | GitHub Activity |
+| --- | --- |
+| [![runnerspeed80-dotcom's LeetCode Stats](https://herokuapp.com)](https://leetcode.com) | [![runnerspeed80-dotcom's GitHub Stats](https://vercel.app)](https://github.com) |
 
-*(Stats cache dynamically. If you just solved a problem, give it a few minutes to refresh!)*
+*(Stats cache dynamically. If you just pushed code or solved a problem, give it a few minutes to refresh!)*
 
 ---
 
