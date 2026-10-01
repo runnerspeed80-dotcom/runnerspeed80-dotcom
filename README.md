@@ -1,5 +1,12 @@
-# 💫 About Me:
-Create a GitHub Profile README for me with a clean, modern dark space-themed design.<br><br>About me:<br>- I am an ECE engineering student at UVCE.<br>- I am currently learning programming and exploring electronics/embedded systems.<br>- I have been learning C for around 2 months.<br><br>Skills I currently know/practice:<br>- C programming<br>- C basics<br>- Arrays<br>- Pointers<br>- Strings<br>- Dynamic memory allocation / malloc<br>- Basic bitwise operations<br>- Basic problem solving<br>- Two-pointer technique<br>- Basic understanding of time and space complexity<br>- LeetCode problem solving<br><br>LeetCode problems I have worked on include:<br>- Valid Palindrome<br>- Reverse String<br>- Two Sum II – Input Array Is Sorted<br><br>Currently exploring:<br>- Arduino<br>- ESP32<br>- Basic electronics and circuits<br>- GPIO, LEDs, resistors and GND<br>- Arduino-style C/C++ programming
+About Me
+
+> 👋 Hey! I'm an ECE engineering student at UVCE, currently exploring the world of programming and electronics.
+
+💻 I'm learning C programming and practicing problem-solving through LeetCode, with a focus on building strong fundamentals.
+
+⚡ I'm also starting my journey into Arduino, ESP32, and embedded systems, experimenting with basic electronics and circuits.
+
+🚀 Currently learning, building, and figuring things out one project at a time. 🌌
 
 
 # 💻 Tech Stack:
